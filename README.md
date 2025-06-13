@@ -19,7 +19,6 @@
 
 - 📸 Instagram: [@nadeer77_](https://www.instagram.com/nadeer77_)
 - 💼 LinkedIn: [Mohammed Nadeer](https://www.linkedin.com/in/mohammednadeer/)
-- 🧑‍💻 GitHub: [@Nadeer77](https://github.com/Nadeer77)
 
 ---
 
