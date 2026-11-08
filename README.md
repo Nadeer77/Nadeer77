@@ -36,11 +36,31 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Nadeer77&theme=onedark&no-frame=true&no-bg=true" />
-</p>
+**Game Development**
+  
+[![Game Development](https://skillicons.dev/icons?i=unity,cs&perline=5)](https://skillicons.dev)
+
+**IDEs & Editors**
+
+[![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio&perline=5)](https://skillicons.dev)
+
+**Version Control**
+
+[![Version Control](https://skillicons.dev/icons?i=git,github&perline=5)](https://skillicons.dev)
+  
+![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)
+
+**Platforms**
+
+[![Platforms](https://skillicons.dev/icons?i=android,apple,windows&perline=5)](https://skillicons.dev)
+
+**AI Tools**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ludo.ai](https://img.shields.io/badge/Ludo.ai-6C5CE7?style=for-the-badge)
+![Magnific AI](https://img.shields.io/badge/Magnific_AI-222222?style=for-the-badge)
 
 ---
 
