@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Mohammed Nadeer!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&width=600&lines=Unity+Game+Developer;Gameplay+Programmer;Building+2D+%26+3D+Games;Exploring+AR%2FVR+Development)](https://git.io/typing-svg)
-
 🎮 A **Unity Game Developer** focused on bringing imagination to life through engaging game experiences.
 
 ---
