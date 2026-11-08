@@ -36,6 +36,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nadeer77&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nadeer77&show_icons=true&theme=tokyonight)
