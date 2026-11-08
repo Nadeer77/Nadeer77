@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mohammed Nadeer!
 
-🎮 A passionate **Unity Game Developer** focused on bringing imagination to life through engaging game experiences.
+🎮 A **Unity Game Developer** focused on bringing imagination to life through engaging game experiences.
 
 ---
 
