@@ -61,6 +61,8 @@
 **AI Tools**
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Ludo AI](https://img.shields.io/badge/Ludo%20AI-6C5CE7?style=for-the-badge)
 ![Magnific AI](https://img.shields.io/badge/Magnific%20AI-222222?style=for-the-badge)
 
