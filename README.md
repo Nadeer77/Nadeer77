@@ -40,6 +40,8 @@
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Nadeer77&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Nadeer77&theme=tokyonight)
+
 ---
 
 ## 📫 Connect with Me
