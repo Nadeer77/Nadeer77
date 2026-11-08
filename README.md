@@ -16,6 +16,24 @@
 
 ---
 
+## 🛠️ Technical Skills
+
+**Game Development:** Unity Engine (2D/3D), Gameplay Programming, Game Mechanics, Physics, Animation, Particle Systems, UI Development, Scene Management
+
+**Programming Languages:** C#
+
+**Game Engines:** Unity
+
+**Design Patterns & Architecture:** Object-Oriented Programming (OOP), Design Patterns, Interfaces, ScriptableObjects
+
+**Unity Systems:** Save & Load Systems, Inventory Systems, Shop Systems, Raycasting, NavMesh, New Input System
+
+**Multiplayer & AR/VR:** Photon PUN 2, Multiplayer Networking, AR Foundation, VR Fundamentals
+
+**Tools & Platforms:** Visual Studio Code, Unity Hub, Git, GitHub, Gitea, GitHub Desktop, Android, WebGL, PC
+
+---
+
 ## 📫 Connect with Me
 
 - 📸 Instagram: [@nadeer77_](https://www.instagram.com/nadeer77_)
