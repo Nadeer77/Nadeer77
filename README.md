@@ -54,13 +54,15 @@
 
 **Platforms**
 
-[![Platforms](https://skillicons.dev/icons?i=android,apple,windows&perline=5)](https://skillicons.dev)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![PC](https://img.shields.io/badge/PC-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 **AI Tools**
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ludo.ai](https://img.shields.io/badge/Ludo.ai-6C5CE7?style=for-the-badge)
-![Magnific AI](https://img.shields.io/badge/Magnific_AI-222222?style=for-the-badge)
+![Ludo AI](https://img.shields.io/badge/Ludo%20AI-6C5CE7?style=for-the-badge)
+![Magnific AI](https://img.shields.io/badge/Magnific%20AI-222222?style=for-the-badge)
 
 ---
 
