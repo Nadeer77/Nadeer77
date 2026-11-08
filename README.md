@@ -1,15 +1,16 @@
 # 👋 Hello, I'm Mohammed Nadeer!
 
-🎮 A passionate **Game Developer** on a mission to bring imagination to life through games.
+🎮 A passionate **Unity Game Developer** focused on bringing imagination to life through engaging game experiences.
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 I'm currently learning **Unity** and **C#**
-- 🎯 Interested in developing immersive and engaging **game experiences**
-- 🤝 Open to collaboration on **game projects**, especially indie or experimental ones
-- 🧠 Always curious to explore **game design**, **mechanics**, and **level development**
+- 👨‍💻 **Unity Game Developer** specializing in **C#** and gameplay programming.
+- 🎯 Interested in developing immersive **2D and 3D game experiences**.
+- 🛠️ Experienced in building gameplay mechanics, reusable systems, and game prototypes.
+- 🧠 Interested in **game architecture, design patterns, game mechanics, and level development**.
+- 🤝 Open to collaboration on **game development projects**, especially indie and experimental games.
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love both **playing** and **creating** games — it's my ultimate combo move!
 
@@ -24,8 +25,6 @@
 
 > _"Games don't just entertain, they tell stories, challenge minds, and spark creativity. Let's build worlds together."_ 🌍✨
 
-
 <!---
-Nadeer77/Nadeer77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Nadeer77/Nadeer77 is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 --->
