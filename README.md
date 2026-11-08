@@ -44,6 +44,12 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/Nadeer77/Nadeer77/output/github-snake.svg)
+
+---
+
 ## 📫 Connect with Me
 
 - 📸 Instagram: [@nadeer77_](https://www.instagram.com/nadeer77_)
